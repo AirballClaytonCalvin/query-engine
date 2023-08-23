@@ -8,3 +8,4 @@ werkzeug==2.2.2
 dash-mantine-components==0.12.1
 redis==3.5.3
 dash-iconify==0.1.2
+dash-ag-grid
